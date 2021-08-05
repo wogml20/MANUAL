@@ -19,13 +19,6 @@
 
 #### 위의 과정대로 계정을 만들었다면, Teams.microsoft.com으로 이동해 줍니다.
 
-![](.gitbook/assets/그림10.png)
-
-
-{% hint style="info" %}
-위의 화면이 아닌 아래의 화면이 보여야 합니다.
-{% endhint %}
-
 ![](.gitbook/assets/그림11.png)
 
 
