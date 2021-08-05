@@ -5,3 +5,24 @@
 ![](.gitbook/assets/그림1.png)
 
 <br><br>
+
+#### ❷ 아래의 순서대로 계정을 만들어 줍니다
+![](.gitbook/assets/그림2.png)
+![](.gitbook/assets/그림3.png)
+![](.gitbook/assets/그림4.png)
+![](.gitbook/assets/그림5.png)
+![](.gitbook/assets/그림6.png)
+![](.gitbook/assets/그림7.png)
+![](.gitbook/assets/그림8.png)
+![](.gitbook/assets/그림9.png)
+
+
+#### 위의 과정대로 계정을 만들었다면, Teams.microsoft.com으로 이동해 줍니다.
+
+![](.gitbook/assets/그림10.png)
+
+
+{% hint style="info" %}
+위의 화면이 아닌 아래의 화면이 보여야 합니다.
+{% endhint %}
+
