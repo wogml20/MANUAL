@@ -1,8 +1,7 @@
 # Microsoft Teams 가입 매뉴얼
 
-![](.gitbook/assets/1.png)
-
-
+{% page-ref page="./microsoft.md" %}
+{% page-ref page="./teams.md" %}
 
 
 
