@@ -32,7 +32,7 @@
 
 
 
-#### microsoft 계정을 만들었다면, 팀스에 가입합니다.
+#### microsoft 계정을 만들었다면, Teams에 가입합니다.
 
 {% page-ref page="teams.md" %}
 
