@@ -6,11 +6,6 @@
 #### link : https://app-speed.gitbook.io/3/
 
 
-### - AppSpeed 설치 매뉴얼  
-##### Branch : AppspeedSetup
-##### link : https://app-speed.gitbook.io/333333/
-
-
 ### - MetaData Manager 매뉴얼  
 ##### Branch : MetadataManager
 ##### link : https://app-speed.gitbook.io/1/
